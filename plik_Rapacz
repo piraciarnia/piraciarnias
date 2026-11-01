@@ -1,1 +1,17 @@
+<!DOCTYPE html> 
+<html lang="pl-PL"> 
+<html> 
+     <head> 
+             <meta charset="utf-8"> 
+             <title> ściąganie pliku Rapacz </title> 
+     </head> 
+    <body> 
+ tutaj będzie ściąganie pliku Rapacz<br>
 
+<A href ="instrukcja.pdf">k&nbsp;l&nbsp;i&nbsp;k&nbsp; aby ściągnąć plik</A>
+
+
+
+<A HREF="index.html"> Wróć </A>
+    </body> 
+  </html>
